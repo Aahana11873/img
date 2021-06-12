@@ -1,0 +1,14 @@
+body{
+    background-color:darkgoldenrod;
+    color: darkmagenta;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_object{
+    color: green;
+}
+#camera{
+    border:2px chocolate;
+}
